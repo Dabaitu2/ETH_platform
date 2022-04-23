@@ -1,0 +1,1 @@
+docker-compose up -d --scale node_slaver=3
